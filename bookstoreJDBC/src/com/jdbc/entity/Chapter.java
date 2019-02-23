@@ -33,7 +33,7 @@ public class Chapter {
 
 	@Override
 	public String toString() {
-		return "Tittle : " + title + " and ChapterNumber :" + chapterNumber;
+		return "Tittle: " + title + " and ChapterNumber: " + chapterNumber;
 	}
 
 }

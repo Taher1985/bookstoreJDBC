@@ -23,7 +23,7 @@ public class Publisher {
 
 	@Override
 	public String toString() {
-		return "\nPublisher Code : " + code + " and Publisher Name : " + name;
+		return "\nPublisher Code: " + code + " and Publisher Named: " + name;
 	}
 
 }

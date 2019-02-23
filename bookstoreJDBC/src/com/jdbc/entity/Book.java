@@ -43,7 +43,7 @@ public class Book {
 
 	@Override
 	public String toString() {
-		return "Book Details are \nISBN : " + isbn + " and Book Name : " + name + " \n\nPublisher Details are "
+		return "Book Details are \nISBN: " + isbn + " and Book Name: " + name + " \n\nPublisher Details are "
 				+ publisher + " \n\nChapters Details are : \n" + chapters;
 	}
 
